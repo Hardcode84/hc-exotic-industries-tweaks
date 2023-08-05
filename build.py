@@ -17,7 +17,7 @@ print(version)
 print(dir_name)
 print(full_dir_name)
 
-exclude = ('.git', build_dir, dir_name)
+exclude = ('.git', '*.zip', build_dir, dir_name)
 
 
 shutil.rmtree(build_dir, ignore_errors=True)
