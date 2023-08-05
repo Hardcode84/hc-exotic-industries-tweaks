@@ -1,0 +1,12 @@
+{
+    "name": "hc-exotic-industries-tweaks",
+    "version": "0.1.0",
+    "title": "HC Exotic Industries tweaks",
+    "author": "Hardcode",
+    "factorio_version": "1.1",
+    "description": "My personal tweaks for Exotic Industries mod, nothing to see here.",
+    "dependencies": [
+        "base >= 1.0.0",
+        "exotic-industries"
+    ]
+}
