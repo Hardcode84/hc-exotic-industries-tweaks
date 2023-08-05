@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 06. 08. 2023
+  Major Features:
+    - Initial release.
+    - Make hydrogen and isotopes burnable
+    - Loose some fusion lead coolant each cooling cycle
